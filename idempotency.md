@@ -1,0 +1,1 @@
+An idempotent action achieves the same result on the recipient's state no matter how many times you perform it. For example, GET is idempotent, while POST is not.

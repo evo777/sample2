@@ -1,0 +1,1 @@
+CRUD is a set of primitive operations that manipulate data. Typically you are handling database tables and records. It describes the 4 basic operations you can perform on data (or a resource): Create, Read, Update, Delete.
